@@ -25,6 +25,7 @@ It is a standalone tool built by me using java swing which gives the real-time f
 ## Key activities 
 
 User has to submit username along with password 
+
 Based on the password entered by user they receive message (such as Your password is weak,medium,strong)
 
 
