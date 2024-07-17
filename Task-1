@@ -4,7 +4,7 @@
  * Author:Deepanshu Thappa
  * Date: 17-07-2024
  * 
- * Description:
+ * Description: 
  * This is a Java Swing application provides a graphical interface for checking the complexity of user-entered passwords.
  * It evaluates passwords based on length, presence of uppercase/lowercase letters, digits, special characters,
  * and prevents the use of common passwords. Real-time feedback on password strength is provided.
