@@ -8,14 +8,15 @@ Domain: Cyber Security
 
 ## Overview of the project
 A Password Complexity Checker (GUI java swing application) .
-Objective:
+
+## Objective
 The objective of this project is to develop a tool to asses the strength of password entered by the users. 
  Also contains analysis of  factors such as length , complexity, criteria for password to provide feedback on password strength.
 
  
 ## Technologies used :
-Java : Java for logic building 
-java swing : For the GUI components
+**Java :** Java for logic building 
+**Java swing :** For the GUI components
 It is a standalone tool built by me using java swing which gives the real-time feedback based on user's input to the password field 
 
 ## Key activities 
