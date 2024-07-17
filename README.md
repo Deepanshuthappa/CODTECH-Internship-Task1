@@ -30,4 +30,8 @@ User has to submit username along with password
 
 Based on the password entered by user they receive message (such as Your password is weak,medium,strong)
 
+## OUTPUT :
+![Screenshot 2024-07-17 144403](https://github.com/user-attachments/assets/feaef79f-3212-4320-97a0-f86da2f8c85e)
+
+![Screenshot 2024-07-17 144310](https://github.com/user-attachments/assets/5e5ed42b-6eb9-4116-b2fe-21788f89e10c)
 
